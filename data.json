@@ -1,0 +1,100 @@
+{
+  "title": "The most read newspapers",
+  "avatar": "https://cdn-icons-png.flaticon.com/256/10841/10841515.png",
+  "links": [
+    {
+      "name": "El País",
+      "url": "https://elpais.com/",
+      "country": "Spain",
+      "language": "spanish",
+      "image": "https://cdn.icon-icons.com/icons2/2699/PNG/512/elpais_logo_icon_171183.png"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/",
+      "country": "United States",
+      "language": "english",
+      "image": "https://www.nytimes.com/favicon.ico"
+    },
+    {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr/",
+      "country": "France",
+      "language": "french",
+      "image": "https://yt3.googleusercontent.com/ytc/AIdro_lc_bwD31RMYX29qFH1MoZ_nmD40v_x6Mk8i7yzjQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Clarín",
+      "url": "https://www.clarin.com/",
+      "country": "Argentina",
+      "language": "spanish",
+      "image": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://clarin.com&size=48"
+    },
+    {
+      "name": "La Repubblica",
+      "url": "https://www.repubblica.it/",
+      "country": "Italy",
+      "language": "italian",
+      "image": "https://www.repubblica.it/favicon.ico"
+    },
+    {
+      "name": "Der Spiegel",
+      "url": "https://www.spiegel.de/",
+      "country": "Germany",
+      "language": "german",
+      "image": "https://www.spiegel.de/favicon.ico"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/international",
+      "country": "United Kingdom",
+      "language": "english",
+      "image": "https://p7.hiclipart.com/preview/707/137/261/the-guardian-guardian-media-group-theguardian-com-news-journalism-the-guardian-logo.jpg"
+    },
+    {
+      "name": "El Financiero",
+      "url": "https://www.elfinanciero.com.mx/",
+      "country": "Mexico",
+      "language": "spanish",
+      "image": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/a1gknk8dnwuwobaeaoo4"
+    },
+    {
+      "name": "O Globo",
+      "url": "https://oglobo.globo.com/",
+      "country": "Brazil",
+      "language": "portuguese",
+      "image": "https://lirp.cdn-website.com/3eff9647/dms3rep/multi/opt/favicon_oglobo-128w.jpg"
+    },
+    {
+      "name": "Asahi Shimbun",
+      "url": "https://www.asahi.com/",
+      "country": "Japan",
+      "language": "japanese",
+      "image": "https://www.asahi.com/favicon.ico"
+    },
+    {
+      "name": "La Nación",
+      "url": "https://www.lanacion.com.ar/",
+      "country": "Argentina",
+      "language": "spanish",
+      "image": "https://public.tableau.com/avatar/0364882a-d407-41d8-a575-66077231317e.jpeg"
+    }
+  ],
+  "socials": [
+    {
+      "network": "X",
+      "image": "https://cdn-icons-png.flaticon.com/32/11823/11823292.png",
+      "url": "https://x.com"
+    },
+    {
+      "network": "GitHub",
+      "image": "https://cdn-icons-png.flaticon.com/32/2111/2111432.png",
+      "url": "https://github.com"
+    },
+    {
+      "network": "Instagram",
+      "image": "https://cdn-icons-png.flaticon.com/32/1384/1384031.png",
+      "url": "https://instagram.com"
+    }
+  ]
+}
