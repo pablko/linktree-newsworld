@@ -20,9 +20,7 @@ function LinkCard({ url, name, image }) {
             unoptimized={true}
           />
         </div>
-        <h2
-          className="font-medium text-md w-full text-center -ml-1"
-        >
+        <h2 className="font-medium  w-full text-center -ml-1">
           {name} 
         </h2>
       </div>
@@ -36,7 +34,7 @@ function SocialCard({ network, image, url }) {
       target='_blank'
     >
       <Image
-        className='img-color-gray'
+        className='recol'
         alt={network}
         src={image}
         width={30}
@@ -60,7 +58,7 @@ export default function Home() {
             unoptimized={true}
             priority
           />
-          <h1 className='text-xl text-gray-200 font-bold mt-5 text-center'>{data.title}</h1>
+          <h1 className='data-title text-xl text-gray-200 font-bold mt-5 text-center'>{data.title}</h1>
         </div>
       
         <div className='flex flex-col items-center mt-6'>
@@ -68,7 +66,7 @@ export default function Home() {
             <LinkCard key={link.href} {...link} />
           ))}
         </div>
-        <div className='flex justify-between w-72 mt-8 mx-auto'>
+        <div className='flex justify-between w-72 my-16 mx-auto'>
           {data.socials.map(social => (
             <SocialCard key={social.href} {...social} />
           ))}
